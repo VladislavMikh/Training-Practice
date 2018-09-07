@@ -1,0 +1,30 @@
+C:/intelFPGA_lite/verilogSimulation/labs_6/tb2_sum.v {1 {vlog -work work -stats=none C:/intelFPGA_lite/verilogSimulation/labs_6/tb2_sum.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb2_sum
+
+Top level modules:
+	tb2_sum
+
+} {} {}} C:/intelFPGA_lite/verilogSimulation/labs_6/sum.v {1 {vlog -work work -stats=none C:/intelFPGA_lite/verilogSimulation/labs_6/sum.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module sum
+-- Compiling module full_adder
+
+Top level modules:
+	sum
+
+} {} {}} C:/intelFPGA_lite/verilogSimulation/labs_6/tb2f_sum.v {1 {vlog -work work -stats=none C:/intelFPGA_lite/verilogSimulation/labs_6/tb2f_sum.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb2f_sum
+
+Top level modules:
+	tb2f_sum
+
+} {} {}} C:/intelFPGA_lite/verilogSimulation/labs_6/tb1_sum.v {1 {vlog -work work -stats=none C:/intelFPGA_lite/verilogSimulation/labs_6/tb1_sum.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb1_sum
+
+Top level modules:
+	tb1_sum
+
+} {} {}}

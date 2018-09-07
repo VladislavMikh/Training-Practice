@@ -1,0 +1,6 @@
+vsim work.tb1_b2oh -t ns
+view *
+add wave DUT/*
+run 40ns
+wave zoom full
+view wave

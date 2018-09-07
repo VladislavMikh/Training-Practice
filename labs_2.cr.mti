@@ -1,0 +1,29 @@
+C:/intelFPGA_lite/verilogSimulation/labs_2/tb1_mux.v {1 {vlog -work work -stats=none C:/intelFPGA_lite/verilogSimulation/labs_2/tb1_mux.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb1_mux
+
+Top level modules:
+	tb1_mux
+
+} {} {}} C:/intelFPGA_lite/verilogSimulation/labs_2/tb2_mux.v {1 {vlog -work work -stats=none C:/intelFPGA_lite/verilogSimulation/labs_2/tb2_mux.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb2_mux
+
+Top level modules:
+	tb2_mux
+
+} {} {}} C:/intelFPGA_lite/verilogSimulation/labs_2/mux.v {1 {vlog -work work -stats=none C:/intelFPGA_lite/verilogSimulation/labs_2/mux.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mux
+
+Top level modules:
+	mux
+
+} {} {}} C:/intelFPGA_lite/verilogSimulation/labs_2/tb2f_mux.v {1 {vlog -work work -stats=none C:/intelFPGA_lite/verilogSimulation/labs_2/tb2f_mux.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb2f_mux
+
+Top level modules:
+	tb2f_mux
+
+} {} {}}

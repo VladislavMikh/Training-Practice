@@ -1,0 +1,29 @@
+C:/intelFPGA_lite/verilogSimulation/labs_3/tb2f_dmux.v {1 {vlog -work work -stats=none C:/intelFPGA_lite/verilogSimulation/labs_3/tb2f_dmux.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb2f_dmux
+
+Top level modules:
+	tb2f_dmux
+
+} {} {}} C:/intelFPGA_lite/verilogSimulation/labs_3/tb1_dmux.v {1 {vlog -work work -stats=none C:/intelFPGA_lite/verilogSimulation/labs_3/tb1_dmux.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb1_dmux
+
+Top level modules:
+	tb1_dmux
+
+} {} {}} C:/intelFPGA_lite/verilogSimulation/labs_3/tb2_dmux.v {1 {vlog -work work -stats=none C:/intelFPGA_lite/verilogSimulation/labs_3/tb2_dmux.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb2_dmux
+
+Top level modules:
+	tb2_dmux
+
+} {} {}} C:/intelFPGA_lite/verilogSimulation/labs_3/dmux.v {1 {vlog -work work -stats=none C:/intelFPGA_lite/verilogSimulation/labs_3/dmux.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module dmux
+
+Top level modules:
+	dmux
+
+} {} {}}

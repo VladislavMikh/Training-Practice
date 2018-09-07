@@ -1,0 +1,19 @@
+
+module b2bd 
+	((* altera_attribute = "-name IO_STANDARD \"3.3-V LVCMOS\"",     chip_pin = "49,46,25,24" *)
+	input [4:0]sw,
+	(* altera_attribute = "-name IO_STANDARD \"2.5V\"", useioff = 1, chip_pin = "65,66,67,68,69,70,71,72" *)
+	output [7:0]led);
+	// можно через for 2 -> 10.  for -> 2-10. Но в лоб через case никто не запрещал
+case (sw)
+	4'b0000 : led = 8'b00000000;
+	4'b0000 : led = 8'b0000
+	4'b0000 : led = 8'b0000
+	4'b0000 : led = 8'b0000
+	4'b0000 : led = 8'b0000
+	4'b0000 : led = 8'b0000
+	4'b0000 : led = 8'b0000
+	4'b0000 : led = 8'b0000
+	4'b0000 : led = 8'b0000
+	4'b0000 : led = 8'b0000
+	4'b0000 : led = 8'b0000
